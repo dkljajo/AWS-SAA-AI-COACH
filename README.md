@@ -121,6 +121,15 @@ participate in a 9-month AWS DevOps mentorship program
 
 That experience played a key role in shaping how I think about cloud architecture.
 
+## 🚀 Live Demo
+
+This is the interactive version of the AWS SAA AI Coach built on PartyRock.
+
+It demonstrates the core learning flow:
+Learning → Scenarios → Exam Mode
+
+👉 Try it here: [Launch App](https://partyrock.aws/u/dejvid/UD-Je2z1H/AWS-Solutions-Architect-Exam-Prep-V2)
+
 🚀 FUTURE IDEAS
 Persistent progress tracking
 Weak-area detection
