@@ -82,14 +82,20 @@ User Input
 → Evaluation System
 → Explanation + Feedback
 
-📸 SCREENSHOTS (PLACE IN BOTH DEV.TO + GITHUB)
+📸 SCREENSHOTS 
+
 📚 Learning Interface
+
+![Learning](./1.png)
 
 🧩 Scenario Question
 
+![scenario](./2.png)
+
 ✅ Explanation View
 
-🧪 Exam Mode
+![explanation](./3.png)
+
 
 📈 WHY THIS PROJECT EXISTS
 
